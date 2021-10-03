@@ -1,1 +1,2 @@
-# Chinese-Text-Token-Seeker
+# 简易中文文本抽取指定关键字语句工具
+效用如题，具体操作请查看ipynb文件。
