@@ -1,8 +1,8 @@
 压缩包内文件的说明：
 
 - parser_seeker.py 主程序文件
-- output.json 对应春秋左传原文的docx
-- output2.json 对应春秋左传原文+译文的docx
+- output 对应春秋左传原文的docx
+- output2 对应春秋左传原文+译文的docx
 
 若出现乱码问题请使用可查看unicode的json查看器
 
